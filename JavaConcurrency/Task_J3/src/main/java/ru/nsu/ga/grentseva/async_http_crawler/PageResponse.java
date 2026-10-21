@@ -6,8 +6,5 @@ public record PageResponse(
         String message,
         List<String> successors
 ) {
-    public PageResponse {
-        successors = List.copyOf(successors);
-    }
 }
 
