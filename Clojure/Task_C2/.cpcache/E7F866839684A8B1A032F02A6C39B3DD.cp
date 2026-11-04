@@ -1,0 +1,1 @@
+test;C:\Users\emoch\DataProcessingAndStorage\Clojure\Task_C2\src;C:\Users\emoch\DataProcessingAndStorage\Clojure\Task_C2\test;C:\Users\emoch\.m2\repository\org\clojure\clojure\1.12.6\clojure-1.12.6.jar;C:\Users\emoch\.m2\repository\org\clojure\core.specs.alpha\0.4.74\core.specs.alpha-0.4.74.jar;C:\Users\emoch\.m2\repository\org\clojure\spec.alpha\0.5.238\spec.alpha-0.5.238.jar
